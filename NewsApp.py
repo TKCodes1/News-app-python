@@ -1,4 +1,3 @@
-import requests
 import tkinter as tk
 import feedparser
 import webbrowser
